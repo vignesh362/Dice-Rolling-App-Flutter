@@ -1,4 +1,3 @@
-# dice
+# Dice Roling App
 
-this project is an simulation of 2 dices being rolled. with which i just added some random sounds.
-the project is made with flutter.
+Developed a dice roll simulation application using Flutter, featuring random sound effects to enhance user experience. This project demonstrates proficiency in Flutter and creative implementation of audio elements to simulate a realistic dice rolling environment.
